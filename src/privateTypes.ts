@@ -1,3 +1,4 @@
+// @ts-nocheck
 export type dimensionType = {
   x: number;
   y: number;

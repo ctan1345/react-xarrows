@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { useContext, useEffect, useLayoutEffect, useRef, useState } from 'react';
 import { xarrowPropsType } from '../types';
 import useXarrowProps from './useXarrowProps';

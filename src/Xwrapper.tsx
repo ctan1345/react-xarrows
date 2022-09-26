@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { FC, useEffect, useRef, useState } from 'react';
 
 export const XelemContext = React.createContext(null as () => void);

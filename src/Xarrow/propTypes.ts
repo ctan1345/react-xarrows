@@ -1,3 +1,4 @@
+ // @ts-nocheck
 import PT from 'prop-types';
 import { arrowShapes, cAnchorEdge, cPaths, cSvgElems } from '../constants';
 

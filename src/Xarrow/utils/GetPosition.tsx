@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { useXarrowPropsResType } from '../useXarrowProps';
 import React from 'react';
 import { calcAnchors } from '../anchors';

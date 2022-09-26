@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { useContext, useLayoutEffect, useState } from 'react';
 import { XelemContext } from './Xwrapper';
 

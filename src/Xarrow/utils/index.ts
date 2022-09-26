@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { anchorCustomPositionType, refType } from '../../types';
 import React from 'react';
 

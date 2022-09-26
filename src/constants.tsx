@@ -1,3 +1,4 @@
+// @ts-nocheck
 // constants used for typescript and proptypes definitions
 import React from 'react';
 

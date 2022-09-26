@@ -1,3 +1,4 @@
+// @ts-nocheck
 export { default } from './Xarrow/Xarrow';
 export * from './types';
 export * from './constants';
